@@ -13,5 +13,7 @@ Utilizei o ChatGPT para estruturar as partes do meu e-book, bem como para gerar 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo divertido, que narra de forma resumida a trajetória de Goku durante sua jornada em busca do poder.
 
+[E-book A Jornada de Goku: Uma Busca pelo Poder](https://docs.google.com/document/d/1HTJZHIq08b5nSrMoiLqsD6mPBY95W-NJh5k5tZ9IM8U/edit)
+
 ## 💭 Reflexão (Opcional)
 Achei muito divertido trabalhar com as diferentes IAs Generativas para criar algo do zero e em pouco tempo.

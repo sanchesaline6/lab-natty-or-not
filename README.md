@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# A Jornada de Goku: Uma Busca pelo Poder
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book resume a jornada de Goku em busca de seu crescimento para alcançar o maior poder de derrotar todos os seus inimigos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- Ferramenta **Google Docs** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para estruturar as partes do meu e-book, bem como para gerar seu conteúdo. Para concluir, a montagem final foi feita no Google Docs, por ser uma ferramenta de livre acesso para edição de texto. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo divertido, que narra de forma resumida a trajetória de Goku durante sua jornada em busca do poder.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Achei muito divertido trabalhar com as diferentes IAs Generativas para criar algo do zero e em pouco tempo.
